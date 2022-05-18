@@ -1,5 +1,2 @@
-#Understanding LAMP stack
-
-### -The virtual machine is connected locally to the powershell 
-[img/1]
-### -
+# Understanding LAMP stack implementation
+### The images shows the whole steps involved and their respective results.
