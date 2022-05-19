@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Understanding LAMP stack implementation
 ### Step one (Setting up an EC2 instance) 
 An EC2 instance is created and connected through a local host. ![ec2 instance](./img/1%20connecting%20to%20ec2.png)
